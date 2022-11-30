@@ -1,0 +1,10 @@
+D:\Test4\Efficiency of Power Plant\Efficiency of Power PlantML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\Test4\Efficiency of Power Plant\Efficiency of Power PlantML.Model\bin\Debug\netstandard2.0\Efficiency of Power PlantML.Model.deps.json
+D:\Test4\Efficiency of Power Plant\Efficiency of Power PlantML.Model\bin\Debug\netstandard2.0\Efficiency of Power PlantML.Model.dll
+D:\Test4\Efficiency of Power Plant\Efficiency of Power PlantML.Model\bin\Debug\netstandard2.0\Efficiency of Power PlantML.Model.pdb
+D:\Test4\Efficiency of Power Plant\Efficiency of Power PlantML.Model\obj\Debug\netstandard2.0\Efficiency of Power PlantML.Model.csprojAssemblyReference.cache
+D:\Test4\Efficiency of Power Plant\Efficiency of Power PlantML.Model\obj\Debug\netstandard2.0\Efficiency of Power PlantML.Model.AssemblyInfoInputs.cache
+D:\Test4\Efficiency of Power Plant\Efficiency of Power PlantML.Model\obj\Debug\netstandard2.0\Efficiency of Power PlantML.Model.AssemblyInfo.cs
+D:\Test4\Efficiency of Power Plant\Efficiency of Power PlantML.Model\obj\Debug\netstandard2.0\Efficiency of Power PlantML.Model.csproj.CoreCompileInputs.cache
+D:\Test4\Efficiency of Power Plant\Efficiency of Power PlantML.Model\obj\Debug\netstandard2.0\Efficiency of Power PlantML.Model.dll
+D:\Test4\Efficiency of Power Plant\Efficiency of Power PlantML.Model\obj\Debug\netstandard2.0\Efficiency of Power PlantML.Model.pdb

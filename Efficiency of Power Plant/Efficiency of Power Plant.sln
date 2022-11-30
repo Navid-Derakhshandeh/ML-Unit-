@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Efficiency of Power Plant", "Efficiency of Power Plant\Efficiency of Power Plant.csproj", "{3C568D8F-76A4-4353-B6E3-8718B5F464E3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Efficiency of Power PlantML.Model", "Efficiency of Power PlantML.Model\Efficiency of Power PlantML.Model.csproj", "{46261784-C747-41C3-94B6-E352C6BA5E6D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Efficiency of Power PlantML.ConsoleApp", "Efficiency of Power PlantML.ConsoleApp\Efficiency of Power PlantML.ConsoleApp.csproj", "{544D88DF-8F0D-42CC-8EB1-639EDC0D4859}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C568D8F-76A4-4353-B6E3-8718B5F464E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C568D8F-76A4-4353-B6E3-8718B5F464E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C568D8F-76A4-4353-B6E3-8718B5F464E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C568D8F-76A4-4353-B6E3-8718B5F464E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46261784-C747-41C3-94B6-E352C6BA5E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46261784-C747-41C3-94B6-E352C6BA5E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46261784-C747-41C3-94B6-E352C6BA5E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46261784-C747-41C3-94B6-E352C6BA5E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{544D88DF-8F0D-42CC-8EB1-639EDC0D4859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{544D88DF-8F0D-42CC-8EB1-639EDC0D4859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{544D88DF-8F0D-42CC-8EB1-639EDC0D4859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{544D88DF-8F0D-42CC-8EB1-639EDC0D4859}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36C40EDA-2A81-495B-A477-4778C9266CF0}
+	EndGlobalSection
+EndGlobal

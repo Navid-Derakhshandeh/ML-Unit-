@@ -1,0 +1,51 @@
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\MLModel.zip
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\LdaNative.dll
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\CpuMathNative.dll
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\Efficiency of Power Plant.exe.config
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\Efficiency of Power Plant.exe
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\Efficiency of Power Plant.pdb
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\Efficiency of Power PlantML.Model.dll
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\Microsoft.ML.Core.dll
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\Microsoft.ML.CpuMath.dll
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\Microsoft.ML.Data.dll
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\Microsoft.ML.DataView.dll
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\Microsoft.ML.dll
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\Microsoft.ML.KMeansClustering.dll
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\Microsoft.ML.PCA.dll
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\Microsoft.ML.StandardTrainers.dll
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\Microsoft.ML.Transforms.dll
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\Newtonsoft.Json.dll
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\System.Buffers.dll
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\System.CodeDom.dll
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\System.Collections.Immutable.dll
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\System.Memory.dll
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\System.Numerics.Vectors.dll
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\System.Threading.Channels.dll
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\Efficiency of Power PlantML.Model.pdb
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\Microsoft.ML.xml
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\Microsoft.ML.Core.xml
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\Microsoft.ML.CpuMath.xml
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\Microsoft.ML.Data.xml
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\Microsoft.ML.DataView.xml
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\Microsoft.ML.KMeansClustering.xml
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\Microsoft.ML.PCA.xml
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\Microsoft.ML.StandardTrainers.xml
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\Microsoft.ML.Transforms.xml
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\Newtonsoft.Json.xml
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\System.Buffers.xml
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\System.Collections.Immutable.xml
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\System.Memory.xml
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\System.Numerics.Vectors.xml
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\System.Threading.Channels.xml
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\obj\Debug\Efficiency of Power Plant.csprojAssemblyReference.cache
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\obj\Debug\Efficiency_of_Power_Plant.Form1.resources
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\obj\Debug\Efficiency_of_Power_Plant.Properties.Resources.resources
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\obj\Debug\Efficiency of Power Plant.csproj.GenerateResource.cache
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\obj\Debug\Efficiency of Power Plant.csproj.CoreCompileInputs.cache
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\obj\Debug\Efficiency of Power Plant.csproj.CopyComplete
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\obj\Debug\Efficiency of Power Plant.exe
+D:\Test4\Efficiency of Power Plant\Efficiency of Power Plant\obj\Debug\Efficiency of Power Plant.pdb
